@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\vivay\documents\visual studio 2015\projects\3dmodel\3dmodel\main.cpp(42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\vivay\documents\visual studio 2015\projects\3dmodel\3dmodel\main.cpp(43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\vivay\documents\visual studio 2015\projects\3dmodel\3dmodel\main.cpp(44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\vivay\documents\visual studio 2015\projects\3dmodel\3dmodel\main.cpp(45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  3DModel.vcxproj -> C:\Users\vivay\documents\visual studio 2015\Projects\3DModel\Debug\3DModel.exe
+  3DModel.vcxproj -> C:\Users\vivay\documents\visual studio 2015\Projects\3DModel\Debug\3DModel.pdb (Partial PDB)
